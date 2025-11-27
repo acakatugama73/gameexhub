@@ -1297,7 +1297,11 @@ document.write(unescape('%3C%21%2D%2D%20%43%6F%6F%6B%69%65%20%43%6F%6E%73%65%6E%
 </script>
 
 <script src="ios.js"></script>
+
+    <a href="/" alt="stats counter free" target="_blank" >
+<img  src="https://sstatic1.histats.com/0.gif?4977134&101" alt="stats counter free" border="0">
     
 </body> 
 </html>
+
 
